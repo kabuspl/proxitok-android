@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proxitok</string>
+    <string name="share">Udostępnij</string>
+    <string name="download">Pobierz</string>
+    <string name="instance">Instancja</string>
+    <string name="original">Oryginalne</string>
+    <string name="watermark">Ze znakiem wodnym</string>
+    <string name="no_watermark">Bez znaku wodnego</string>
+    <string name="settings">Ustawienia</string>
+    <string name="instance_url">Adres instancji</string>
+    <string name="autoplay">Odtwarzaj wideo automatycznie</string>
+    <string name="video_from_url">Otwórz wideo z linku</string>
+    <string name="cancel">Anuluj</string>
+    <string name="open">Otwórz</string>
+    <string name="url">Link</string>
+    <string name="no_video_loaded">Nie otwarto żadnego filmu</string>
+</resources>
